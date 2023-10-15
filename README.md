@@ -1,45 +1,44 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Online
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/1030729  |  Eric Rabelo Borges |
+| 19/0058455  |  Mariana Oliveira Pires do Rio |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto contém as resoluções de exercícios de Juiz Online que envolvem os seguintes algoritmos: Djikstra, Kruskal e Prim. 
+
+### Exercício 1:  []()
+
+
+- [Ir para solução]()
+
+### Exercício 2:  []()
+
+- [Ir para solução]()
+
+### Exercício 3:  []()
+
+- [Ir para solução]()
+
+### Exercício 4:  []()
+
+- [Ir para solução]()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Não é necessario instalação, as soluções podem ser submetidas nos sites: []() e []().
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+**Linguagem**: C++<br>
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
+## Apresentação
+Assista o vídeo explicativo do projeto clicando [aqui](/Apresentação.mp4). <br>
+*Observação: A apresentação está em formato .mp4, portanto, faça o download para assisti-la.*
 
 
 
