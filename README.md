@@ -46,7 +46,7 @@ Confira o enunciado do exercício [aqui](https://atcoder.jp/contests/abc143/task
 ## Screenshots
 
 ### Foreign Friends
-![](Assets/ForeignFriens.png)
+![](Assets/ForeignFriends.png)
 
 ### Help The King
 ![](Assets/HelpTheKing.png)
@@ -58,7 +58,7 @@ Confira o enunciado do exercício [aqui](https://atcoder.jp/contests/abc143/task
 ![](Assets/Travel.png)
 
 ## Instalação 
-Não é necessario instalação, as soluções podem ser submetidas nos sites: [AtCoder](https://atcoder.jp/), [Codeforces](https://codeforces.com/) e [SPOJ](https://www.spoj.com/).
+Não é necessario instalação. As soluções podem ser submetidas nos sites: [AtCoder](https://atcoder.jp/), [Codeforces](https://codeforces.com/) e [SPOJ](https://www.spoj.com/).
 
 **Linguagem**: C++<br>
 
