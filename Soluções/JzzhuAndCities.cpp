@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std; 
 
-const int MAX = 1e5; 
+const int MAX = 3e5; 
 const long long inf = 9000000000000000000LL; 
 
 long long distancia[MAX];
